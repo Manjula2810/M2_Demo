@@ -6,5 +6,6 @@ public class DemoGithub {
 	@Test
 public void m1() {
 	System.out.println("Hello Love");
+	System.out.println("Hyyy dear");
 }
 }
