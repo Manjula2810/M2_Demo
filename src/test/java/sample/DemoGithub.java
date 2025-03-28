@@ -7,5 +7,6 @@ public class DemoGithub {
 public void m1() {
 	System.out.println("Hello Love");
 	System.out.println("Hyyy dear");
+	System.out.println("hi puppy");
 }
 }
